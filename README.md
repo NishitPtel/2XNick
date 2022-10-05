@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2XNick
-- ✔  I'm Junior Developer
+- ✔  I'm Junior Developer, App Support Specialist 
 - 👀 I’m interested in ...Backend Development
 - 🌱 I’m currently learning ...Cloud Technologies
 - 💞️ I’m looking to collaborate on ...C#, Java, Database Management
