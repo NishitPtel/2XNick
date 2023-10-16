@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @
+- 👋 Hi, I’m @Nishit
 - ✔  I'm Junior Developer, App Support Specialist 
 - 👀 I’m interested in ...Backend Development
 - 🌱 I’m currently learning ...Cloud Technologies
